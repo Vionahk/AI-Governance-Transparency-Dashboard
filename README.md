@@ -1,6 +1,7 @@
 # AI Governance & Transparency Dashboard
 
 A comprehensive Python-based dashboard for monitoring and ensuring responsible AI practices across enterprise machine learning models.
+Demo: https://drive.google.com/file/d/1U4yiG-5YooB3flAkSxLsRrdFJvmCkwZe/view?usp=drive_link
 
 ## Overview
 
